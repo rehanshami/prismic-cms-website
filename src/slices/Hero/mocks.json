@@ -9,7 +9,7 @@
 					{
 						"type": "heading1",
 						"content": {
-							"text": "Hello Youtuba",
+							"text": "Productivity that flows with your life.",
 							"spans": []
 						},
 						"direction": "ltr"
@@ -22,15 +22,17 @@
 					{
 						"type": "paragraph",
 						"content": {
-							"text": "Labore magna consectetur fugiat proident exercitation enim dolore velit fugiat eu."
-						}
+							"text": "Unleash your potential by harmonising your daily tasks and habits with your unique energy rhythms.",
+							"spans": []
+						},
+						"direction": "ltr"
 					}
 				]
 			},
 			"button_text": {
 				"__TYPE__": "FieldContent",
-				"value": "danger",
-				"type": "Text"
+				"type": "Text",
+				"value": "Try for free"
 			},
 			"button_link": {
 				"__TYPE__": "LinkContent",
